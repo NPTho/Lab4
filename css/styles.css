@@ -79,7 +79,7 @@ dd {
 	pointer-events: all;
 }
 
-#carouselButton {
+#carousel-button {
     right:0px;
     position: absolute;
     bottom: 0px;
